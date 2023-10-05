@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'scavaiapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B884DA7D49CB46E08ECC81507B7A984C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9D4842BCA05E4DA9B8D60CE0418E27B0 }}
